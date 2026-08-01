@@ -6,16 +6,16 @@ Library contents:
 **Initialize:**
 Opens the connection to the instrument. Serial port is configured internally to the following parameters, which should not be changed:
 
-Baud Rate: 9600.
-Flow Control: None.
-Parity: None.
-Data bits: 8.
-Stop bits: 1.
-Termination Character: Disabled.
+Baud Rate: 9600.  
+Flow Control: None.  
+Parity: None.  
+Data bits: 8.  
+Stop bits: 1.  
+Termination Character: Disabled.  
 
-_Input parameters:_
-error in: error cluster.
-VISA Resource name in: Resource (COM port) name.
+_Input parameters:_  
+error in: error cluster.  
+VISA Resource name in: Resource (COM port) name.  
 
 _Output parameters:_
 error out: error cluster.
