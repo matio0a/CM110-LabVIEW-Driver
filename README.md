@@ -17,31 +17,30 @@ _Input parameters:_
 error in: error cluster.  
 VISA Resource name in: Resource (COM port) name.  
 
-_Output parameters:_
-error out: error cluster.
-VISA Resource name out: Resource (COM port) name.
+_Output parameters:_  
+error out: error cluster.  
+VISA Resource name out: Resource (COM port) name.  
 
-**Close:**
-Closes the connection to the instrument. 
+**Close:**  
+Closes the connection to the instrument.  
 
-_Input parameters:_ 
-error in: error cluster.
-VISA Refnum in: Resource (COM port) name.
+_Input parameters:_  
+error in: error cluster.  
+VISA Refnum in: Resource (COM port) name.  
 
-_Output parameters:_ 
-error out: error cluster.
+_Output parameters:_  
+error out: error cluster.  
 
-**Read:**
+**Read:**  
 Checks if there are any incoming data bytes at the serial port, then reads the available data.
 
-_Input parameters:_ 
-error in: error cluster.
-VISA Refnum in: Resource (COM port) name.
+_Input parameters:_  
+error in: error cluster.  
+VISA Refnum in: Resource (COM port) name.  
 
-
-_Output parameters:_ 
-error in: error cluster.
-_string_ Read buffer: data string returned by the monochromator.
-_uint32t_ Return count: number of bytes returned by the monochromator.
-VISA Refnum out: resource (COM port) name.
+_Output parameters:_  
+error in: error cluster.  
+_string_ Read buffer: data string returned by the monochromator.  
+_uint32t_ Return count: number of bytes returned by the monochromator.  
+VISA Refnum out: resource (COM port) name.  
 
