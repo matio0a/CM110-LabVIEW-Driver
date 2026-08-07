@@ -48,6 +48,6 @@ Spectral Products CM110 1/8m compact monochromator.</Property>
 		<Item Name="Close.vi" Type="VI" URL="../Public/Close.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../Public/Initialize.vi"/>
 		<Item Name="ExampleControl.vi" Type="VI" URL="../ExampleControl.vi"/>
+		<Item Name="Read.vi" Type="VI" URL="../Public/Data/Read.vi"/>
 	</Item>
-	<Item Name="Read.vi" Type="VI" URL="../Public/Data/Read.vi"/>
 </Library>
