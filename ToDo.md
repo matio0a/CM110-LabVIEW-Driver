@@ -8,3 +8,4 @@
 6. Redo all the functions in the same style (decimal inputs).
 7. Add comments to the code.
 8. Add icons for each function.
+9. Add Zero button to the frontend of Example.vi. The button should Execute RESET function.
