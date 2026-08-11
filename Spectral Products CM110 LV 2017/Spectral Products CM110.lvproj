@@ -7,7 +7,6 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Spectral Products CM110.lvlib" Type="Library" URL="../Spectral Products CM110.lvlib"/>
-		<Item Name="CaseSelector.ctl" Type="VI" URL="../Public/Controls/CaseSelector.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

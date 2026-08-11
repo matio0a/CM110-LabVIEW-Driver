@@ -36,6 +36,7 @@ Spectral Products CM110 1/8m compact monochromator.</Property>
 			<Item Name="Reset.vi" Type="VI" URL="../Public/Configure/Reset.vi"/>
 			<Item Name="GratingSelect.vi" Type="VI" URL="../Public/Configure/GratingSelect.vi"/>
 			<Item Name="StepSizeSet.vi" Type="VI" URL="../Public/Configure/StepSizeSet.vi"/>
+			<Item Name="RotationSpeedSet.vi" Type="VI" URL="../Public/Configure/RotationSpeedSet.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder"/>
 		<Item Name="Utility" Type="Folder">
@@ -45,6 +46,7 @@ Spectral Products CM110 1/8m compact monochromator.</Property>
 		</Item>
 		<Item Name="Controls" Type="Folder">
 			<Item Name="UnitsSelector.ctl" Type="VI" URL="../Public/Controls/UnitsSelector.ctl"/>
+			<Item Name="CaseSelector.ctl" Type="VI" URL="../Public/Controls/CaseSelector.ctl"/>
 		</Item>
 		<Item Name="Close.vi" Type="VI" URL="../Public/Close.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../Public/Initialize.vi"/>
