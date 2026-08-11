@@ -28,6 +28,7 @@ Spectral Products CM110 1/8m compact monochromator.</Property>
 			<Item Name="SerialNumberGet.vi" Type="VI" URL="../Public/Action-Status/SerialNumberGet.vi"/>
 			<Item Name="MoveOneStep.vi" Type="VI" URL="../Public/Action-Status/MoveOneStep.vi"/>
 			<Item Name="StepSizeGet.vi" Type="VI" URL="../Public/Action-Status/StepSizeGet.vi"/>
+			<Item Name="WavelengthScan.vi" Type="VI" URL="../Public/Action-Status/WavelengthScan.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="GoTo.vi" Type="VI" URL="../Public/Action-Status/GoTo.vi"/>
