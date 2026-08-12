@@ -40,6 +40,8 @@ Spectral Products CM110 1/8m compact monochromator.</Property>
 			<Item Name="StepSizeSet.vi" Type="VI" URL="../Public/Configure/StepSizeSet.vi"/>
 			<Item Name="RotationSpeedSet.vi" Type="VI" URL="../Public/Configure/RotationSpeedSet.vi"/>
 			<Item Name="RotationDirectionSet.vi" Type="VI" URL="../Public/Configure/RotationDirectionSet.vi"/>
+			<Item Name="DecrementPosition.vi" Type="VI" URL="../Public/Configure/DecrementPosition.vi"/>
+			<Item Name="IncrementPosition.vi" Type="VI" URL="../Public/Configure/IncrementPosition.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder"/>
 		<Item Name="Utility" Type="Folder">
