@@ -4,7 +4,7 @@
 
 This is not an official vendor library. The authors are not affiliated with Spectral Products in any way or shape. The library is composed following the description of the instrument functions provided in the user manual. Some functionality may be unverified. Use at your own risk. The authors claim no responsibility for the possible damage to the instruments firmware that may occur as a result of using this library. We tried our best to facilitate our own lives, and hope that the result of our work will be useful to you as well. The code provided in this repository is licensed under GNU General Public License v3.0. 
 
-**Citation:**
+**Citing this work:**
 
 If used for research or other purposes, please, cite this repository the following way:
 
