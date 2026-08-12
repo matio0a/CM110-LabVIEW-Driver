@@ -1,4 +1,13 @@
 # CM110-LabVIEW-Driver
+
+**Disclaimer:**
+This is not an official vendor library. The authors are not affiliated with Spectral Products in any way or shape. The library is composed following the description of the instrument functions provided in the user manual. Some functionality may be unverified. Use at your own risk. The authors claim no responsibility for the possible damage to the instruments firmware that may occur as a result of using this library. We tried our best to facilitate our own lives, and hope that the result of our work will be useful to you as well. The code provided in this repository is licensed under GNU General Public License v3.0. 
+
+**Paper Citation**
+If used for research purposes, please, cite this repository the following way:
+Matiash, O. (2026). CM110-LabVIEW-Driver (v1.0) [Computer software]. GitHub. https://github.com/matio0a/CM110-LabVIEW-Driver
+
+**Driver description:**
 A plug-and-play LabVIEW driver for Spectral Products CM110 1/8m monochromator. Features a full set of functions described in the User Manual, with exceptions listed below.
 
 Library contents:
