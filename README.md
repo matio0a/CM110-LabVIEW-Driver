@@ -7,7 +7,8 @@ This is not an official vendor library. The authors are not affiliated with Spec
 **Citation:**
 
 If used for research or other purposes, please, cite this repository the following way:
-Matiash, O. (2026). CM110-LabVIEW-Driver (v1.0) [Computer software]. GitHub. https://github.com/matio0a/CM110-LabVIEW-Driver
+
+Matiash, O. (2026). _CM110-LabVIEW-Driver(v1.0)_ [Computer software]. GitHub. https://github.com/matio0a/CM110-LabVIEW-Driver
 
 **Driver description:**
 
