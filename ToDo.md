@@ -1,9 +1,8 @@
 **TODO LIST:**
 
-1. Add functions for INC, DEC, CALIBRATE.
-2. Add detailed function description to README.
-3. Finalize the backend of Example.vi.
-4. Work on the frontend of Example.vi.
-5. Create an example executable.
-6. Add comments to the code.
-7. Add icons for each function.
+1. Add detailed function description to README.
+2. Finalize the backend of Example.vi.
+3. Work on the frontend of Example.vi.
+4. Create an example executable.
+5. Add comments to the code.
+6. Add icons for each function.
